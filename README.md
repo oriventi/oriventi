@@ -1,8 +1,10 @@
 ## Hi there 👋 \
 
-My name is Adrian, computer science student studying at <img src="https://www.karlsruhe.dhbw.de/typo3conf/ext/dhbw_core/Resources/Public/Images/DHBW_logo_clean.png" width="30"/> DHBW in Friedrichshafen. I am occupied as a Software Engineer at <img src="https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1633337949" width="20"/>irbus.
+My name is Adrian, computer science student studying at <img src="https://www.karlsruhe.dhbw.de/typo3conf/ext/dhbw_core/Resources/Public/Images/DHBW_logo_clean.png" width="30"/> DHBW in Friedrichshafen.<br/> 
+I am occupied as a Software Engineer at <img src="https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1633337949" width="20"/>irbus.
 
 ### My coding adventures so far
+<p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -15,13 +17,16 @@ My name is Adrian, computer science student studying at <img src="https://www.ka
   <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### Next on the Adventure Map
+<p>
   <img alt="k8s" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="semantic-react" src="https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white"/> <br/>
   <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+</p>
 
 My most favorite learning platform is: <img alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 

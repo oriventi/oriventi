@@ -34,7 +34,7 @@ My most favorite learning platform is: <img alt="udemy" src="https://img.shields
 |Projects|Stars|Forks|Pull Requests|
 |--------|:---:|:---:|:-----------:|
 |<a href="https://github.com/oriventi/groq-dart-sdk">groq-dart-sdk</a>|<img alt="Stars" src="https://img.shields.io/github/stars/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|<img alt="Forks" src="https://img.shields.io/github/forks/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|
-|<a href="https://github.com/oriventi/qr_scanner_overlay">qr_scanner_overlay</a>|<img alt="Stars" src="https://img.shields.io/github/stars/oriventi/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Forks" src="https://img.shields.io/github/forks/oriventi/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oriventi/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|
+|<a href="https://github.com/Govind-S-B/qr_scanner_overlay">qr_scanner_overlay</a>|<img alt="Stars" src="https://img.shields.io/github/stars/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Forks" src="https://img.shields.io/github/forks/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|
 
 ### Follow my medium.com carreer here
 

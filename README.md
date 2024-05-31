@@ -1,7 +1,8 @@
 ## Hi there 👋 \
 
 My name is Adrian, computer science student studying at <img src="https://www.karlsruhe.dhbw.de/typo3conf/ext/dhbw_core/Resources/Public/Images/DHBW_logo_clean.png" width="30"/> DHBW in Friedrichshafen.<br/> 
-I am occupied as a Software Engineer at <img src="https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1633337949" width="20"/>irbus.
+I am occupied as a Software Engineer at <img src="https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1633337949" width="20"/>irbus. <br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oriventi"/>
 
 ### My coding adventures so far
 <p>
@@ -35,6 +36,11 @@ My most favorite learning platform is: <img alt="udemy" src="https://img.shields
 |--------|:---:|:---:|:-----------:|
 |<a href="https://github.com/oriventi/groq-dart-sdk">groq-dart-sdk</a>|<img alt="Stars" src="https://img.shields.io/github/stars/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|<img alt="Forks" src="https://img.shields.io/github/forks/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/oriventi/groq-dart-sdk?style=flat-square&labelColor=343b41"/>|
 |<a href="https://github.com/Govind-S-B/qr_scanner_overlay">qr_scanner_overlay</a>|<img alt="Stars" src="https://img.shields.io/github/stars/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Forks" src="https://img.shields.io/github/forks/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Govind-S-B/qr_scanner_overlay?style=flat-square&labelColor=343b41"/>|
+
+### Github Stats 🚀
+![oriventi's Stats](https://github-readme-stats.vercel.app/api?username=oriventi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![oriventi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oriventi&theme=vue-dark&hide_border=true)
 
 ### Follow my medium.com carreer here
 

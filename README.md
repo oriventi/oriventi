@@ -1,4 +1,4 @@
-## Hi there 👋 \
+## Hi there 👋 
 
 My name is Adrian, computer science student studying at <img src="https://www.karlsruhe.dhbw.de/typo3conf/ext/dhbw_core/Resources/Public/Images/DHBW_logo_clean.png" width="30"/> DHBW in Friedrichshafen.<br/> 
 I am occupied as a Software Engineer at <img src="https://companieslogo.com/img/orig/AIR.PA-9f3a3975.png?t=1633337949" width="20"/>irbus. <br/>
